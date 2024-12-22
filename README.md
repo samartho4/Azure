@@ -27,3 +27,7 @@ Builds a secure architecture with a domain controller, web server, and client VM
 
 Project 2: Load Balancing Websites:
 Focuses on load balancing using Azure Load Balancer, Private DNS Zones, and Virtual Network Peering.
+
+## Author
+[Samarth Sharma](https://github.com/samartho4)
+
